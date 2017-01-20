@@ -2,7 +2,7 @@
 npm package to create a hexagon-shaped array of data
 
 ## Install
-`npm install git://github.com/anbnyc/hex-data-gen.git`
+`npm install hex-data-gen`
 
 ## Usage
 ```
@@ -14,3 +14,7 @@ HexDataGen(4);
 // writes the same array to myFile.json
 HexDataGen(4,'myFile')
 ```
+
+## Release History
+* 0.1.0 Initial Release
+* 0.1.1 Add Babel

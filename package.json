@@ -1,6 +1,6 @@
 {
   "name": "hex-data-gen",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Utility to create a hexagon-shaped array of data",
   "main": "./distribution/index.js",
   "scripts": {
