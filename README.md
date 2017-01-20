@@ -14,3 +14,7 @@ HexDataGen(4);
 // writes the same array to myFile.json
 HexDataGen(4,'myFile')
 ```
+
+## Release History
+* 0.1.0 Initial Release
+* 0.1.1 Add Babel
