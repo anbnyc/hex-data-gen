@@ -1,7 +1,7 @@
 let chai = require('chai'),
     spies = require('chai-spies')
     fs = require('fs')
-    hex = require('../index'),
+    hex = require('../source/index.js'),
     should = chai.should(),
     expect = chai.expect;
 
